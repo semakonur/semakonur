@@ -38,4 +38,4 @@ Git | Linux | ELK Stack | Model Context Protocol (MCP) | Langfuse | CI/CD
 ---
 
 **Stay curious. Keep building.**  
-– Semanur
+
