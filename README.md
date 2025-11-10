@@ -33,7 +33,7 @@ Git | Linux | ELK Stack | Model Context Protocol (MCP) | Langfuse | CI/CD
 
 - **Email:** [semakonur43@gmail.com](mailto:semakonur43@gmail.com)
 - **LinkedIn:** [linkedin.com/in/semanur-konur](https://www.linkedin.com/in/semanur-konur/)
-- **Medium:** [semakonur.medium.com](https://semakonur.medium.com)
+- **Medium:** [semakonur.medium.com](medium.com/@semakonur)
 
 ---
 
