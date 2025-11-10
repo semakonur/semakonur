@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Semanur Konur
+# 👋 Hi, I'm Sema
 
 🤖 **Generative AI Engineer** based in Istanbul, Turkey
 
