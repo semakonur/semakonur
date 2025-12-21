@@ -2,11 +2,11 @@
 
 🤖 **Generative AI Engineer** based in Istanbul, Turkey
 
-- 🧠 Building intelligent systems with LLMs, machine learning, and deep learning
-- 🔧 Specializing in AI workflow automation, RAG systems, and NLP solutions
-- 🐍 Passionate about turning complex AI models into real-world applications
-- 🚀 Always experimenting with new AI technologies and optimization techniques
-- ✨ Goal: Create AI systems that genuinely solve problems and add value
+- Building intelligent systems with LLMs, machine learning, and deep learning
+- Specializing in AI workflow automation, RAG systems, and NLP solutions
+- Passionate about turning complex AI models into real-world applications
+- Always experimenting with new AI technologies and optimization techniques
+-Goal: Create AI systems that genuinely solve problems and add value
 
 ---
 
